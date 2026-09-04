@@ -7,4 +7,4 @@ print("hey")
 
 
 
-print("hello developer")
+print("hello")
